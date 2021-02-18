@@ -1,0 +1,11 @@
+${Ansi.BLUE}       ___      .______       __    __       _______.     _______.
+${Ansi.BLUE}      /   \     |   _  \     |  |  |  |     /       |    /       |
+${Ansi.BLUE}     /  ^  \    |  |_)  |    |  |  |  |    |   (----`   |   (----`
+${Ansi.BLUE}    /  /_\  \   |      /     |  |  |  |     \   \        \   \    
+${Ansi.BLUE}   /  _____  \  |  |\  \----.|  `--'  | .----)   |   .----)   |   
+${Ansi.BLUE}  /__/     \__\ | _| `._____| \______/  |_______/    |_______/    
+
+${Ansi.GREEN} ==========>>>   Aruss Evaluación API   <<<==========  :::  1.0
+${Ansi.YELLOW} Powered by Spring Boot ${spring-boot.formatted-version}
+${Ansi.DEFAULT}
+${Ansi.DEFAULT}
